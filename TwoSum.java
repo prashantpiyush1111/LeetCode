@@ -4,7 +4,7 @@ import java.util.Map;
 public class TwoSum {
 
     public static void main(String[] args) {
-        int[] nums = {2, 8, 12, 15};
+        int[] nums = {2, 8, 12, 11};
         int target = 10;
         TwoSum obj = new TwoSum();
         int[] result = obj.twoSum(nums, target);
