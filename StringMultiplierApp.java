@@ -3,7 +3,7 @@ public class StringMultiplierApp {
     public static void main(String[] args) {
         // Input values
         String num1 = "123";
-        String num2 = "456";
+        String num2 = "457";
 
         // Call function
         String result = multiplyStrings(num1, num2);
