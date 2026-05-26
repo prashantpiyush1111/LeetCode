@@ -21,7 +21,6 @@ public class AddStringsSolution {
     public static void testCase(String a, String b) { // Changed: helper method for multiple test cases
         System.out.println(a + " + " + b + " = " + addStrings(a, b));
     }
-n 
     public static void main(String[] args) {
         testCase("123", "789");
         testCase("999", "1");
